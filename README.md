@@ -1,6 +1,6 @@
 # Analyse des ventes de vin – Projet BottleNeck
 
-Ce projet a été réalisé dans le cadre du **Module Expert Data Analyst** sur **OpenClassrooms**.  
+Ce projet a été réalisé dans le cadre de ma formation **Module Expert Data Analyst** avec **OpenClassrooms**.  
 L’objectif était de détecter les incohérences entre plusieurs sources de données et d’analyser les ventes de vin pour l’entreprise fictive **BottleNeck**, en utilisant exclusivement **Python** sur **Google Colab**.
 
 ---
