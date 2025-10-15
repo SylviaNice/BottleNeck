@@ -62,9 +62,9 @@ L’objectif était de détecter les incohérences entre plusieurs sources de do
 
 [Voir le Notebook](https://github.com/sylvia-chevalier-data/BottleNeck/blob/main/Notebook_BottelNeck.ipynb)
 
-[Mon profil LinkedIn](https://www.linkedin.com/in/sylvia-chevalier-data-analyst)
-
 [Voir le Notebook sur Google Colab](https://colab.research.google.com/drive/1fYnCHv46vDj6XlKcSv3p2uLz95tnJPz4?usp=sharing)  
+
+[Mon profil LinkedIn](https://www.linkedin.com/in/sylvia-chevalier-data-analyst)
 
 ---
 
