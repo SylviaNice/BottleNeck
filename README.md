@@ -69,5 +69,5 @@ L’objectif était de détecter les incohérences entre plusieurs sources de do
 ---
 
 ## 🙏 Remerciements
-Merci à mon **mentor OpenClassrooms Michel Perez** pour son accompagnement et ses conseils tout au long du projet.
+Merci à mon **mentor OpenClassrooms Michel Pérez** pour son accompagnement et ses conseils tout au long du projet.
 
