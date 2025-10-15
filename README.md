@@ -60,7 +60,7 @@ L’objectif était de détecter les incohérences entre plusieurs sources de do
 - Projet réalisé exclusivement sur **Python (Google Colab)**  
 - Intérêt pour l’analyse de données appliquée aux secteurs **commerciaux et de la santé**
 
-[Voir le Notebook](https://github.com/sylvia-chevalier-data/BottleNeck/blob/main/Notebook_BottelNeck_final2.ipynb)
+[Voir le Notebook](https://github.com/sylvia-chevalier-data/BottleNeck/blob/main/Notebook_BottelNeck.ipynb)
 
 [Mon profil LinkedIn](https://www.linkedin.com/in/sylvia-chevalier-data-analyst)
 
